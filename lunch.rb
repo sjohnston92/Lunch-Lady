@@ -9,4 +9,3 @@ class Dish
 
   end
 end
-
